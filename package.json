@@ -1,7 +1,7 @@
 {
   "name": "color-keywords",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "packageManager": "pnpm@7.22.0",
   "description": "A list of all CSS color keywords.",
   "author": "Hongbusi",
