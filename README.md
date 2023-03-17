@@ -17,7 +17,7 @@ pnpm add color-keywords
 ``` ts
 import colorKeywords from 'color-keywords'
 
-console.log(colorKeywords.while) // { hex: '#FFFFFF', rgb: 'rgb(255, 255, 255)' }
+console.log(colorKeywords.while) // '#FFFFFF'
 ```
 
 ## License
